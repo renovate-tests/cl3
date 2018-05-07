@@ -4,8 +4,5 @@
     "left-pad": "1.0.0"
   },
   "renovate": {
-    "minor": {
-      "groupName": "all minor dependencies"
-    }
   }
 }
